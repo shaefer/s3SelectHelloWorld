@@ -1,0 +1,11 @@
+{
+  "name": "s3SelectHelloWorld",
+  "version": "1.0.0",
+  "description": "S3 Select accessed via Rest",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.683.0",
+    "uuid": "^2.0.3"
+  }
+}
